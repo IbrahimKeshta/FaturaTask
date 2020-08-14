@@ -7,7 +7,7 @@ Check that you have node or download it [Node](https://nodejs.org/en/download/)
 ```bash
 node -v
 ```
-You should have MYSQL in you machine then you have to run the *DDL.sql* files
+You should have MYSQL in your machine then you have to run the *DDL.sql* files
 
 Navigate to project folder 
 
